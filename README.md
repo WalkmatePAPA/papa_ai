@@ -1,5 +1,5 @@
-# Walking with PAPA : Personalized, Automated, and Persuasive Assistant
-TF code for Boost and sense action prediction for PAPA paper  
+# Walking with PACE — Personalized and Automated Coaching Engine
+TF code for Boost and sense action prediction for PACE paper  
 The code repository has two IPython Notebooks. 
 * Boost selection model 
 * Sense selection model 
